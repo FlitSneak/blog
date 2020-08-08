@@ -1,1 +1,1 @@
-[中文文档&DOCS](https://docs.hojun.cn/sakura/docs/)
+这是一款静态blog，源自台湾省的一位人才开发的hexo框架。
